@@ -1,11 +1,12 @@
-Add AM/PM designation to fourth column.
-Fix military time calculations
-Make time calculations do real-time updates (optional)
+README
+This train scheduler allows users to enter four fields for known Hyperloop trains, including:
+1) Train name
+2) Train destination
+3) Train start time (i.e. when does that train service begin)
+4) Train frequency (how often does that train service run)
 
+Once the user submits information for a specific hyperloop train, that information will be sent to a Firebase database for global storage. That train information will then be displayed in the black table for global viewing.
 
-README file
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+This project is a useful tool to share train information with a larger group.
+
+Please contact John Isabella (john.isabella@gmail.com) with questions or feedback about this application.
